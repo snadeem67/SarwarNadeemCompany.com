@@ -1,1 +1,2 @@
-This has text in branch - master
+
+This has text for Branch B
