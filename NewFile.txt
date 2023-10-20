@@ -1,2 +1,1 @@
-code moved to Github
-This has text for Branch B
+This is the modified file for Branch C
